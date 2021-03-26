@@ -16,17 +16,17 @@ This privacy notice applies to all information collected through our Services (w
 
 Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
 
-1. WHAT INFORMATION DO WE COLLECT?
+- WHAT INFORMATION DO WE COLLECT?
 
- Information collected through our App
+Information collected through our App
 
- In Short:  We collect information regarding your mobile device, when you use our App.
+In Short:  We collect information regarding your mobile device, when you use our App.
 
- If you use our App, we also collect the following information:
- Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's calendar, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
- This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
+If you use our App, we also collect the following information:
+Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's calendar, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
-2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+- WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 In Short:We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
