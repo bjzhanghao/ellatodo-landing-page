@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
 # PRIVACY NOTICE
 
 Last updated March 21, 2021
