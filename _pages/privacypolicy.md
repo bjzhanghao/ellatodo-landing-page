@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-# PRIVACY POLYCY
+# PRIVACY POLICY
 
 Last updated March 21, 2021
 
