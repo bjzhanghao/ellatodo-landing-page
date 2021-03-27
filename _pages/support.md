@@ -4,11 +4,11 @@ title: Support
 include_in_header: true
 ---
 
-Dear user
+# Contact Us
 
-If you encounter any problems when using our products, please feel free to contact us, we will try our best to solve for you.
+Dear User,
 
-Email address: 1891934@qq.com
+If you encounter any problem when using our products, please feel free to contact us by email, we will responses you as soon as we can.
 
-thank you
+email address: 1891934@qq.com
 
