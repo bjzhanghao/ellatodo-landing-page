@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : To Do
-    description                           : Always stay organized
+    description                           : A clearly organized list helping you focus on the most important items as well as the most recent ones
     fontawesome_icon_name                 : magic
     
   - title                                 : Calendar
-    description                           : Tasks in a glance
+    description                           : Switching to the calendar view in order to have a glance of tasks from the time dimension
     fontawesome_icon_name                 : mobile
 
   - title                                 : Statistics
-    description                           : Getting things done, visually
+    description                           : These intuitive performance charts encouraging you get things done more visually
     fontawesome_icon_name                 : play-circle
 
 
